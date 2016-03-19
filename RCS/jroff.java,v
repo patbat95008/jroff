@@ -1,0 +1,4041 @@
+head	1.178;
+access;
+symbols;
+locks;
+comment	@# @;
+
+
+1.178
+date	2014.02.05.03.41.52;	author -;	state -;
+branches;
+next	1.177;
+
+1.177
+date	2014.02.05.03.38.36;	author -;	state -;
+branches;
+next	1.176;
+
+1.176
+date	2014.02.05.03.38.02;	author -;	state -;
+branches;
+next	1.175;
+
+1.175
+date	2014.02.05.03.35.57;	author -;	state -;
+branches;
+next	1.174;
+
+1.174
+date	2014.02.05.03.34.13;	author -;	state -;
+branches;
+next	1.173;
+
+1.173
+date	2014.02.05.03.32.46;	author -;	state -;
+branches;
+next	1.172;
+
+1.172
+date	2014.02.05.03.31.20;	author -;	state -;
+branches;
+next	1.171;
+
+1.171
+date	2014.02.05.03.30.43;	author -;	state -;
+branches;
+next	1.170;
+
+1.170
+date	2014.02.05.03.30.03;	author -;	state -;
+branches;
+next	1.169;
+
+1.169
+date	2014.02.05.03.29.37;	author -;	state -;
+branches;
+next	1.168;
+
+1.168
+date	2014.02.05.03.26.10;	author -;	state -;
+branches;
+next	1.167;
+
+1.167
+date	2014.02.05.03.25.10;	author -;	state -;
+branches;
+next	1.166;
+
+1.166
+date	2014.02.05.03.24.53;	author -;	state -;
+branches;
+next	1.165;
+
+1.165
+date	2014.02.05.03.24.19;	author -;	state -;
+branches;
+next	1.164;
+
+1.164
+date	2014.02.05.03.20.07;	author -;	state -;
+branches;
+next	1.163;
+
+1.163
+date	2014.02.05.03.19.38;	author -;	state -;
+branches;
+next	1.162;
+
+1.162
+date	2014.02.05.03.18.26;	author -;	state -;
+branches;
+next	1.161;
+
+1.161
+date	2014.02.05.03.16.17;	author -;	state -;
+branches;
+next	1.160;
+
+1.160
+date	2014.02.05.03.12.42;	author -;	state -;
+branches;
+next	1.159;
+
+1.159
+date	2014.02.05.03.12.11;	author -;	state -;
+branches;
+next	1.158;
+
+1.158
+date	2014.02.05.02.50.38;	author -;	state -;
+branches;
+next	1.157;
+
+1.157
+date	2014.02.05.02.47.43;	author -;	state -;
+branches;
+next	1.156;
+
+1.156
+date	2014.02.05.02.46.02;	author -;	state -;
+branches;
+next	1.155;
+
+1.155
+date	2014.02.05.02.44.43;	author -;	state -;
+branches;
+next	1.154;
+
+1.154
+date	2014.02.05.02.44.02;	author -;	state -;
+branches;
+next	1.153;
+
+1.153
+date	2014.02.05.02.43.23;	author -;	state -;
+branches;
+next	1.152;
+
+1.152
+date	2014.02.05.02.34.13;	author -;	state -;
+branches;
+next	1.151;
+
+1.151
+date	2014.02.05.02.33.41;	author -;	state -;
+branches;
+next	1.150;
+
+1.150
+date	2014.02.05.02.33.22;	author -;	state -;
+branches;
+next	1.149;
+
+1.149
+date	2014.02.05.02.27.42;	author -;	state -;
+branches;
+next	1.148;
+
+1.148
+date	2014.02.05.02.25.10;	author -;	state -;
+branches;
+next	1.147;
+
+1.147
+date	2014.02.05.02.20.08;	author -;	state -;
+branches;
+next	1.146;
+
+1.146
+date	2014.02.05.02.19.38;	author -;	state -;
+branches;
+next	1.145;
+
+1.145
+date	2014.02.05.02.16.36;	author -;	state -;
+branches;
+next	1.144;
+
+1.144
+date	2014.02.05.02.15.57;	author -;	state -;
+branches;
+next	1.143;
+
+1.143
+date	2014.02.05.02.14.09;	author -;	state -;
+branches;
+next	1.142;
+
+1.142
+date	2014.02.05.02.13.00;	author -;	state -;
+branches;
+next	1.141;
+
+1.141
+date	2014.02.05.02.12.00;	author -;	state -;
+branches;
+next	1.140;
+
+1.140
+date	2014.02.05.02.10.10;	author -;	state -;
+branches;
+next	1.139;
+
+1.139
+date	2014.02.05.02.07.35;	author -;	state -;
+branches;
+next	1.138;
+
+1.138
+date	2014.02.05.02.07.15;	author -;	state -;
+branches;
+next	1.137;
+
+1.137
+date	2014.02.05.02.01.30;	author -;	state -;
+branches;
+next	1.136;
+
+1.136
+date	2014.02.05.02.00.43;	author -;	state -;
+branches;
+next	1.135;
+
+1.135
+date	2014.02.05.01.57.42;	author -;	state -;
+branches;
+next	1.134;
+
+1.134
+date	2014.02.05.01.56.46;	author -;	state -;
+branches;
+next	1.133;
+
+1.133
+date	2014.02.04.23.49.26;	author -;	state -;
+branches;
+next	1.132;
+
+1.132
+date	2014.02.04.23.48.53;	author -;	state -;
+branches;
+next	1.131;
+
+1.131
+date	2014.02.04.23.47.28;	author -;	state -;
+branches;
+next	1.130;
+
+1.130
+date	2014.02.04.23.46.54;	author -;	state -;
+branches;
+next	1.129;
+
+1.129
+date	2014.02.04.23.35.07;	author -;	state -;
+branches;
+next	1.128;
+
+1.128
+date	2014.02.04.23.32.46;	author -;	state -;
+branches;
+next	1.127;
+
+1.127
+date	2014.02.04.23.27.45;	author -;	state -;
+branches;
+next	1.126;
+
+1.126
+date	2014.02.04.23.26.11;	author -;	state -;
+branches;
+next	1.125;
+
+1.125
+date	2014.02.04.22.58.08;	author -;	state -;
+branches;
+next	1.124;
+
+1.124
+date	2014.02.04.22.54.12;	author -;	state -;
+branches;
+next	1.123;
+
+1.123
+date	2014.02.04.22.52.34;	author -;	state -;
+branches;
+next	1.122;
+
+1.122
+date	2014.02.04.21.55.38;	author -;	state -;
+branches;
+next	1.121;
+
+1.121
+date	2014.02.04.21.53.17;	author -;	state -;
+branches;
+next	1.120;
+
+1.120
+date	2014.02.04.21.52.55;	author -;	state -;
+branches;
+next	1.119;
+
+1.119
+date	2014.02.04.21.48.09;	author -;	state -;
+branches;
+next	1.118;
+
+1.118
+date	2014.02.04.21.47.13;	author -;	state -;
+branches;
+next	1.117;
+
+1.117
+date	2014.02.04.21.44.19;	author -;	state -;
+branches;
+next	1.116;
+
+1.116
+date	2014.02.04.21.43.51;	author -;	state -;
+branches;
+next	1.115;
+
+1.115
+date	2014.02.04.21.43.27;	author -;	state -;
+branches;
+next	1.114;
+
+1.114
+date	2014.02.04.21.41.40;	author -;	state -;
+branches;
+next	1.113;
+
+1.113
+date	2014.02.04.21.40.37;	author -;	state -;
+branches;
+next	1.112;
+
+1.112
+date	2014.02.04.21.15.02;	author -;	state -;
+branches;
+next	1.111;
+
+1.111
+date	2014.02.04.21.06.46;	author -;	state -;
+branches;
+next	1.110;
+
+1.110
+date	2014.02.04.20.00.13;	author -;	state -;
+branches;
+next	1.109;
+
+1.109
+date	2014.02.04.19.59.52;	author -;	state -;
+branches;
+next	1.108;
+
+1.108
+date	2014.02.04.19.58.24;	author -;	state -;
+branches;
+next	1.107;
+
+1.107
+date	2014.02.04.19.57.13;	author -;	state -;
+branches;
+next	1.106;
+
+1.106
+date	2014.02.04.19.50.33;	author -;	state -;
+branches;
+next	1.105;
+
+1.105
+date	2014.02.04.19.48.29;	author -;	state -;
+branches;
+next	1.104;
+
+1.104
+date	2014.02.04.19.41.42;	author -;	state -;
+branches;
+next	1.103;
+
+1.103
+date	2014.02.04.19.30.44;	author -;	state -;
+branches;
+next	1.102;
+
+1.102
+date	2014.02.04.19.05.27;	author -;	state -;
+branches;
+next	1.101;
+
+1.101
+date	2014.02.03.23.17.18;	author -;	state -;
+branches;
+next	1.100;
+
+1.100
+date	2014.02.03.23.04.12;	author -;	state -;
+branches;
+next	1.99;
+
+1.99
+date	2014.02.03.23.03.29;	author -;	state -;
+branches;
+next	1.98;
+
+1.98
+date	2014.02.03.23.00.44;	author -;	state -;
+branches;
+next	1.97;
+
+1.97
+date	2014.02.03.22.50.13;	author -;	state -;
+branches;
+next	1.96;
+
+1.96
+date	2014.02.03.22.49.19;	author -;	state -;
+branches;
+next	1.95;
+
+1.95
+date	2014.02.03.22.46.59;	author -;	state -;
+branches;
+next	1.94;
+
+1.94
+date	2014.02.03.22.41.09;	author -;	state -;
+branches;
+next	1.93;
+
+1.93
+date	2014.02.03.22.39.00;	author -;	state -;
+branches;
+next	1.92;
+
+1.92
+date	2014.02.03.22.38.14;	author -;	state -;
+branches;
+next	1.91;
+
+1.91
+date	2014.02.03.22.37.02;	author -;	state -;
+branches;
+next	1.90;
+
+1.90
+date	2014.02.03.22.36.41;	author -;	state -;
+branches;
+next	1.89;
+
+1.89
+date	2014.02.03.22.35.14;	author -;	state -;
+branches;
+next	1.88;
+
+1.88
+date	2014.02.03.22.32.56;	author -;	state -;
+branches;
+next	1.87;
+
+1.87
+date	2014.02.03.22.31.08;	author -;	state -;
+branches;
+next	1.86;
+
+1.86
+date	2014.02.03.22.22.17;	author -;	state -;
+branches;
+next	1.85;
+
+1.85
+date	2014.02.03.22.20.24;	author -;	state -;
+branches;
+next	1.84;
+
+1.84
+date	2014.02.03.22.17.05;	author -;	state -;
+branches;
+next	1.83;
+
+1.83
+date	2014.02.03.22.16.03;	author -;	state -;
+branches;
+next	1.82;
+
+1.82
+date	2014.02.03.22.14.50;	author -;	state -;
+branches;
+next	1.81;
+
+1.81
+date	2014.02.03.22.13.04;	author -;	state -;
+branches;
+next	1.80;
+
+1.80
+date	2014.02.03.22.12.42;	author -;	state -;
+branches;
+next	1.79;
+
+1.79
+date	2014.02.03.22.10.26;	author -;	state -;
+branches;
+next	1.78;
+
+1.78
+date	2014.02.03.22.08.40;	author -;	state -;
+branches;
+next	1.77;
+
+1.77
+date	2014.02.03.22.07.13;	author -;	state -;
+branches;
+next	1.76;
+
+1.76
+date	2014.02.03.22.05.40;	author -;	state -;
+branches;
+next	1.75;
+
+1.75
+date	2014.02.03.22.03.40;	author -;	state -;
+branches;
+next	1.74;
+
+1.74
+date	2014.02.03.22.02.16;	author -;	state -;
+branches;
+next	1.73;
+
+1.73
+date	2014.02.03.22.00.23;	author -;	state -;
+branches;
+next	1.72;
+
+1.72
+date	2014.02.03.03.10.11;	author -;	state -;
+branches;
+next	1.71;
+
+1.71
+date	2014.02.03.03.07.20;	author -;	state -;
+branches;
+next	1.70;
+
+1.70
+date	2014.02.03.02.32.02;	author -;	state -;
+branches;
+next	1.69;
+
+1.69
+date	2014.02.03.02.30.06;	author -;	state -;
+branches;
+next	1.68;
+
+1.68
+date	2014.02.03.02.28.40;	author -;	state -;
+branches;
+next	1.67;
+
+1.67
+date	2014.02.03.02.25.01;	author -;	state -;
+branches;
+next	1.66;
+
+1.66
+date	2014.02.03.02.24.16;	author -;	state -;
+branches;
+next	1.65;
+
+1.65
+date	2014.02.03.02.22.29;	author -;	state -;
+branches;
+next	1.64;
+
+1.64
+date	2014.02.03.02.19.29;	author -;	state -;
+branches;
+next	1.63;
+
+1.63
+date	2014.02.03.02.17.29;	author -;	state -;
+branches;
+next	1.62;
+
+1.62
+date	2014.02.03.02.15.43;	author -;	state -;
+branches;
+next	1.61;
+
+1.61
+date	2014.02.03.02.13.20;	author -;	state -;
+branches;
+next	1.60;
+
+1.60
+date	2014.02.03.02.12.09;	author -;	state -;
+branches;
+next	1.59;
+
+1.59
+date	2014.02.03.02.07.22;	author -;	state -;
+branches;
+next	1.58;
+
+1.58
+date	2014.02.03.02.06.51;	author -;	state -;
+branches;
+next	1.57;
+
+1.57
+date	2014.02.03.02.06.37;	author -;	state -;
+branches;
+next	1.56;
+
+1.56
+date	2014.02.03.02.05.53;	author -;	state -;
+branches;
+next	1.55;
+
+1.55
+date	2014.02.03.02.03.38;	author -;	state -;
+branches;
+next	1.54;
+
+1.54
+date	2014.02.03.02.02.21;	author -;	state -;
+branches;
+next	1.53;
+
+1.53
+date	2014.02.03.02.00.32;	author -;	state -;
+branches;
+next	1.52;
+
+1.52
+date	2014.02.03.01.56.43;	author -;	state -;
+branches;
+next	1.51;
+
+1.51
+date	2014.02.03.01.51.19;	author -;	state -;
+branches;
+next	1.50;
+
+1.50
+date	2014.02.03.01.48.38;	author -;	state -;
+branches;
+next	1.49;
+
+1.49
+date	2014.02.03.01.47.17;	author -;	state -;
+branches;
+next	1.48;
+
+1.48
+date	2014.02.03.01.43.06;	author -;	state -;
+branches;
+next	1.47;
+
+1.47
+date	2014.02.03.01.42.29;	author -;	state -;
+branches;
+next	1.46;
+
+1.46
+date	2014.02.03.01.40.28;	author -;	state -;
+branches;
+next	1.45;
+
+1.45
+date	2014.02.03.01.36.17;	author -;	state -;
+branches;
+next	1.44;
+
+1.44
+date	2014.02.03.00.55.38;	author -;	state -;
+branches;
+next	1.43;
+
+1.43
+date	2014.02.03.00.55.20;	author -;	state -;
+branches;
+next	1.42;
+
+1.42
+date	2014.02.03.00.54.58;	author -;	state -;
+branches;
+next	1.41;
+
+1.41
+date	2014.02.03.00.51.30;	author -;	state -;
+branches;
+next	1.40;
+
+1.40
+date	2014.02.03.00.49.58;	author -;	state -;
+branches;
+next	1.39;
+
+1.39
+date	2014.02.03.00.48.46;	author -;	state -;
+branches;
+next	1.38;
+
+1.38
+date	2014.02.03.00.44.59;	author -;	state -;
+branches;
+next	1.37;
+
+1.37
+date	2014.02.03.00.44.38;	author -;	state -;
+branches;
+next	1.36;
+
+1.36
+date	2014.02.03.00.40.37;	author -;	state -;
+branches;
+next	1.35;
+
+1.35
+date	2014.02.03.00.37.24;	author -;	state -;
+branches;
+next	1.34;
+
+1.34
+date	2014.02.03.00.36.50;	author -;	state -;
+branches;
+next	1.33;
+
+1.33
+date	2014.02.03.00.34.43;	author -;	state -;
+branches;
+next	1.32;
+
+1.32
+date	2014.02.03.00.29.31;	author -;	state -;
+branches;
+next	1.31;
+
+1.31
+date	2014.02.03.00.23.48;	author -;	state -;
+branches;
+next	1.30;
+
+1.30
+date	2014.02.03.00.21.40;	author -;	state -;
+branches;
+next	1.29;
+
+1.29
+date	2014.02.03.00.07.59;	author -;	state -;
+branches;
+next	1.28;
+
+1.28
+date	2014.02.03.00.07.08;	author -;	state -;
+branches;
+next	1.27;
+
+1.27
+date	2014.02.03.00.05.52;	author -;	state -;
+branches;
+next	1.26;
+
+1.26
+date	2014.02.03.00.05.26;	author -;	state -;
+branches;
+next	1.25;
+
+1.25
+date	2014.02.03.00.01.12;	author -;	state -;
+branches;
+next	1.24;
+
+1.24
+date	2014.02.02.23.56.42;	author -;	state -;
+branches;
+next	1.23;
+
+1.23
+date	2014.02.02.23.55.27;	author -;	state -;
+branches;
+next	1.22;
+
+1.22
+date	2014.02.02.23.54.41;	author -;	state -;
+branches;
+next	1.21;
+
+1.21
+date	2014.02.02.23.51.48;	author -;	state -;
+branches;
+next	1.20;
+
+1.20
+date	2014.02.02.23.50.28;	author -;	state -;
+branches;
+next	1.19;
+
+1.19
+date	2014.02.02.23.49.06;	author -;	state -;
+branches;
+next	1.18;
+
+1.18
+date	2014.02.02.23.48.41;	author -;	state -;
+branches;
+next	1.17;
+
+1.17
+date	2014.02.02.23.11.34;	author -;	state -;
+branches;
+next	1.16;
+
+1.16
+date	2014.02.02.23.10.38;	author -;	state -;
+branches;
+next	1.15;
+
+1.15
+date	2014.02.02.23.09.26;	author -;	state -;
+branches;
+next	1.14;
+
+1.14
+date	2014.02.02.23.04.44;	author -;	state -;
+branches;
+next	1.13;
+
+1.13
+date	2014.02.02.23.03.53;	author -;	state -;
+branches;
+next	1.12;
+
+1.12
+date	2014.02.02.23.03.12;	author -;	state -;
+branches;
+next	1.11;
+
+1.11
+date	2014.02.02.22.56.40;	author -;	state -;
+branches;
+next	1.10;
+
+1.10
+date	2014.02.02.22.53.51;	author -;	state -;
+branches;
+next	1.9;
+
+1.9
+date	2014.02.02.22.49.21;	author -;	state -;
+branches;
+next	1.8;
+
+1.8
+date	2014.02.02.22.48.19;	author -;	state -;
+branches;
+next	1.7;
+
+1.7
+date	2014.02.02.22.46.20;	author -;	state -;
+branches;
+next	1.6;
+
+1.6
+date	2014.02.02.22.44.59;	author -;	state -;
+branches;
+next	1.5;
+
+1.5
+date	2014.02.01.22.17.18;	author -;	state -;
+branches;
+next	1.4;
+
+1.4
+date	2014.02.01.22.16.05;	author -;	state -;
+branches;
+next	1.3;
+
+1.3
+date	2014.02.01.21.53.01;	author -;	state -;
+branches;
+next	1.2;
+
+1.2
+date	2014.02.01.21.46.37;	author -;	state -;
+branches;
+next	1.1;
+
+1.1
+date	2014.01.30.03.24.19;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.178
+log
+@-
+@
+text
+@// $Id: jroff.java,v 1.177 2014-02-04 19:38:36-08 - - $
+// Modified by
+// Patrick Russell
+// pcrussel
+//
+import java.io.*;
+import java.util.Scanner;
+import static java.lang.System.*;
+
+class jroff{
+   static final String STDIN_NAME = "-";
+
+   static void scanfile (String filename, Scanner infile) {
+      linkedqueue <String> wordqueue = new linkedqueue <String> ();
+      out.printf ("filename = %s%n", filename);
+      int linenr = 1;
+      newPage();
+      for (; infile.hasNextLine(); ) {
+         String line = infile.nextLine();
+         //out.printf ("STUB: %s: %4d: [%s]%n", filename, linenr, line);
+         //ignore comment lines
+         if (line.isEmpty()) wordqueue.insert("\n");
+         if (line.startsWith(".\\\"")) line = infile.nextLine();
+         String[] words = line.split ("\\s+");
+         for(int i = 0; i < words.length; i++){
+            linenr++;
+            wordqueue.insert(words[i]);
+         }        
+        
+         //detects commands and dumps the paragraph
+         if (words.length > 0 && words[0].startsWith(Character.toString(commands.controlChar))) {           
+            try {
+               commands.do_command (words);
+            }catch (IllegalArgumentException error) {
+               auxlib.warn (filename, linenr, words[0],
+                            "invalid command");
+            }
+            
+            printparagraph(wordqueue);
+            out.printf("%n"); 
+         }
+         
+      }
+      //if there are no commands at the end of the file,
+      //print the paragraph
+      printparagraph(wordqueue);
+      out.printf("%n");
+   }
+
+   public static void indent () {
+     for (int i = 0; i < commands.format; i++){
+        out.printf(" ");
+     }
+     for (int i = 0; i < commands.indent; i++){
+        out.printf(" ");
+     }
+     if(!commands.hasBeenIndent){
+     commands.hasBeenIndent = true;
+     }else{
+     commands.hasBeenIndent = false;
+     }
+   }
+
+   public static void newPage() {
+     for (int i = 0; i < commands.lineL -1; i++){
+        out.printf(" ");
+     }
+     out.printf("%s", commands.pageNum);
+     for (int i = 0; i < commands.topMarginH; i++){
+        out.printf("\n");
+     }
+     if(commands.hasBeenIndent) indent();
+     commands.hasBeenIndent = false;
+     commands.pageNum++;
+     commands.lineVert = 0;
+   }
+
+   public static void printparagraph(linkedqueue wordqueue){
+      //lineLength measures the total characters in the line
+      int lineLength = 0;
+      boolean isNewPara = false;
+      //the for loop dumps everything in
+      //the linked queue
+      indent();
+      for (;!wordqueue.empty();){
+         
+
+         if (commands.lineVert >= commands.pageL || commands.isTopOfPage){
+            newPage();
+            commands.isTopOfPage = false;
+         }
+         String word = (String)wordqueue.remove();
+  
+         if (lineLength >= commands.lineL){
+           out.printf("\n");
+           commands.lineVert++;
+           indent();
+           lineLength = word.length ();
+         }
+
+	 if (word.startsWith(Character.toString(commands.controlChar))){
+	 //tests for punctuation
+            //don't print the command, or the number after it
+            if (!wordqueue.empty()){
+               word = (String)wordqueue.remove();
+           }
+         }else if (word.endsWith(".") || word.endsWith("!")
+	     || word.endsWith("?") || word.endsWith(";")
+             || word.endsWith(":")){
+
+           
+           //adds the length of each word plus 2
+  	   lineLength += word.length() + 2;
+
+           //the if statement tests to see if the line 
+           //exceeds the length of the page if yes,
+           //it then sets the length of the line to
+           //2 plus the length of the word and adds
+           //a new line
+
+           if (lineLength >= commands.lineL){
+             out.printf("\n");
+             commands.lineVert++;
+             indent();
+             lineLength = word.length() + 2;
+             lineLength += commands.format + commands.indent;
+           }
+           //it then prints the word with two spaces
+           out.printf("%s  ", word);
+         //if the word has no puncuation, it adds
+         //the word length to the line length,
+         //with an extra one for the space
+         }else {     
+            lineLength += word.length() + 1;
+            //if the line length is greater than the page,
+            //it indents and sets the length to the word
+            //length, plus one for the space
+            if (lineLength >= commands.lineL){
+               out.printf("\n");
+               commands.lineVert++;
+               indent();
+       	       lineLength = word.length() + 1;
+               lineLength += commands.format + commands.indent;
+            }  
+            out.printf("%s ", word);
+     	}
+        if (commands.lineVert >= commands.pageL){
+          newPage();
+          commands.lineVert = 0;
+        }
+        if (word.contains("\n")) indent();
+      }
+      //prints a space between paragraphs
+      //out.printf("\n");
+      //out.printf("\n");
+      //   commands.lineVert++;
+     // }
+   }
+
+
+   public static void main (String[] args) {
+      linkedqueue <String> wordqueue = new linkedqueue <String> ();
+      if (args.length == 0) {
+         scanfile (STDIN_NAME, new Scanner (in));
+      }else {
+         for (String filename : args) {
+            if (filename.equals (STDIN_NAME)) {
+               scanfile (STDIN_NAME, new Scanner (in));
+            }else {
+               try {
+                  Scanner scan = new Scanner (new File (filename));
+                  scanfile (filename, scan);
+                  scan.close();
+               }catch (IOException error) {
+                  auxlib.warn (error.getMessage());
+               }
+            }
+         }
+      }
+   }
+
+}
+@
+
+
+1.177
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.176 2014-02-04 19:38:02-08 - - $
+d47 1
+@
+
+
+1.176
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.175 2014-02-04 19:35:57-08 - - $
+d150 1
+a150 1
+        if (word.contains("\n")) format();
+@
+
+
+1.175
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.174 2014-02-04 19:34:13-08 - - $
+d92 1
+a92 3
+         if (word.equals("\n")){
+            isNewPara = true; 
+         }
+d150 1
+@
+
+
+1.174
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.173 2014-02-04 19:32:46-08 - - $
+d85 1
+a85 5
+         if (isNewPara = true) {
+            indent();
+            isNewPara = false;
+            out.printf("top");
+         }
+d93 1
+a93 2
+            isNewPara = true;
+            out.printf("lel");
+@
+
+
+1.173
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.172 2014-02-04 19:31:20-08 - - $
+d88 1
+d98 1
+@
+
+
+1.172
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.171 2014-02-04 19:30:43-08 - - $
+d95 3
+a97 1
+         if (word.equals("\n")) isNewPara = true;
+@
+
+
+1.171
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.170 2014-02-04 19:30:03-08 - - $
+d80 1
+a80 1
+      boolean isNewPara = true;
+@
+
+
+1.170
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.169 2014-02-04 19:29:37-08 - - $
+d95 1
+a95 1
+         if (word.equeals("\n")) isNewPara = true;
+@
+
+
+1.169
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.168 2014-02-04 19:26:10-08 - - $
+d95 1
+a95 1
+         if (word.equeals("\n") isNewPara = true;
+@
+
+
+1.168
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.167 2014-02-04 19:25:10-08 - - $
+d22 1
+a22 1
+         if (line.isEmpty()) wordqueue.insert("\n\n");
+d80 1
+d85 4
+a88 1
+
+d95 1
+a95 1
+
+@
+
+
+1.167
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.166 2014-02-04 19:24:53-08 - - $
+d151 2
+a152 2
+      out.printf("\n");
+      out.printf("\n");
+@
+
+
+1.166
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.165 2014-02-04 19:24:19-08 - - $
+d25 1
+a25 1
+         for(int i = 0; i <= words.length; i++){
+@
+
+
+1.165
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.164 2014-02-04 19:20:07-08 - - $
+d22 1
+a22 1
+         if (infile.isEmpty()) wordqueue.insert("\n\n");
+@
+
+
+1.164
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.163 2014-02-04 19:19:38-08 - - $
+d22 1
+d25 2
+a26 5
+         for(int i = 0; i< words.length; i++){
+            if(infile.nextLine().isEmpty()){
+               wordqueue.insert("\n");
+               linenr++;
+            }
+@
+
+
+1.163
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.162 2014-02-04 19:18:26-08 - - $
+d26 1
+a26 1
+               wordqueue.insert("/n");
+@
+
+
+1.162
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.161 2014-02-04 19:16:17-08 - - $
+d26 1
+a26 1
+               wordqueue.insert("%n");
+@
+
+
+1.161
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.160 2014-02-04 19:12:42-08 - - $
+d25 2
+a26 2
+            if(words[i].contains("%n")){
+               out.printf("%n");
+@
+
+
+1.160
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.159 2014-02-04 19:12:11-08 - - $
+d25 2
+a26 2
+            if(words[i].contains("\n")){
+               wordqueue.insert("newline \n");
+@
+
+
+1.159
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.158 2014-02-04 18:50:38-08 - - $
+d26 1
+a26 1
+               wordqueue.insert("\n");
+@
+
+
+1.158
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.157 2014-02-04 18:47:43-08 - - $
+d24 8
+a31 4
+         for(int i = 0;i < words.length; i++) wordqueue.insert(words[i]);
+         linenr++;
+         
+         
+d40 1
+a40 1
+            out.printf("I was called after a command");
+a42 2
+         }else if(words[0].contains("\n")){
+            printparagraph(wordqueue);
+@
+
+
+1.157
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.156 2014-02-04 18:46:02-08 - - $
+d39 2
+@
+
+
+1.156
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.155 2014-02-04 18:44:43-08 - - $
+d36 1
+d149 1
+a149 1
+      out.printf("\n\n");
+@
+
+
+1.155
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.154 2014-02-04 18:44:02-08 - - $
+d148 1
+a148 1
+      out.printf("\n");
+@
+
+
+1.154
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.153 2014-02-04 18:43:23-08 - - $
+d149 1
+a149 1
+      //out.printf("\n");
+@
+
+
+1.153
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.152 2014-02-04 18:34:13-08 - - $
+d37 1
+a37 1
+            out.printf("\n"); 
+@
+
+
+1.152
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.151 2014-02-04 18:33:41-08 - - $
+d37 1
+a37 1
+           
+@
+
+
+1.151
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.150 2014-02-04 18:33:22-08 - - $
+d68 1
+a68 1
+     if(!commands.hasBeenIndent) indent();
+@
+
+
+1.150
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.149 2014-02-04 18:27:42-08 - - $
+d69 1
+a69 1
+     hasBeenIndent = false;
+@
+
+
+1.149
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.148 2014-02-04 18:25:10-08 - - $
+d53 5
+d68 2
+a69 1
+     //indent();
+@
+
+
+1.148
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.147 2014-02-04 18:20:08-08 - - $
+d63 1
+a63 1
+     indent();
+a67 6
+   public static void hitEnter(){
+     for (int i = 0; i < commands.lineNum; i++){
+        out.printf("hitEnter was called\n");
+     }
+   }
+
+@
+
+
+1.147
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.146 2014-02-04 18:19:38-08 - - $
+d142 4
+a145 1
+
+@
+
+
+1.146
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.145 2014-02-04 18:16:36-08 - - $
+d146 1
+a146 1
+      out.printf("\n");
+@
+
+
+1.145
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.144 2014-02-04 18:15:57-08 - - $
+d69 1
+a70 2
+     for (int i = 0; i < commands.lineNum; i++){
+        out.printf("%s", commands.lineNum);
+d145 2
+a146 2
+      hitEnter();
+      //out.printf("\n");
+@
+
+
+1.144
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.143 2014-02-04 18:14:09-08 - - $
+d69 1
+a70 1
+        out.printf("hitEnter was called\n");
+@
+
+
+1.143
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.142 2014-02-04 18:13:00-08 - - $
+d71 1
+@
+
+
+1.142
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.141 2014-02-04 18:12:00-08 - - $
+d70 1
+a70 1
+        out.printf("\n");
+@
+
+
+1.141
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.140 2014-02-04 18:10:10-08 - - $
+d70 1
+a70 1
+        out.printf("hitEnter was called \n");
+@
+
+
+1.140
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.139 2014-02-04 18:07:35-08 - - $
+d17 1
+a17 1
+      newPage(filename);
+d93 1
+a93 1
+           lineLength = word.length;
+@
+
+
+1.139
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.138 2014-02-04 18:07:15-08 - - $
+d21 1
+a21 1
+         //ignore commentl lines
+d29 1
+a29 1
+         if (words.length > 0 && words[0].startsWith (Character.toString(commands.controlChar))) {           
+d36 1
+a36 1
+            printparagraph(wordqueue, filename);
+d43 1
+a43 1
+      printparagraph(wordqueue, filename);
+@
+
+
+1.138
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.137 2014-02-04 18:01:30-08 - - $
+d93 1
+a93 1
+           lineLength = word.length
+@
+
+
+1.137
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.136 2014-02-04 18:00:43-08 - - $
+d55 1
+a55 1
+   public static void newPage(String filename) {
+d74 1
+a74 1
+   public static void printparagraph(linkedqueue wordqueue, String filename){
+d81 2
+a82 1
+         
+d84 1
+a84 1
+            newPage(filename);
+d88 9
+a97 1
+	 if (word.startsWith(Character.toString(commands.controlChar))){
+d142 1
+a142 6
+        if (lineLength >= commands.lineL){
+           out.printf("\n");
+           commands.lineVert++;
+           indent();
+           lineLength = commands.format + commands.indent;
+        }
+d145 2
+a146 2
+      //for(int i = 0; i < commands.lineNum; i++){
+      out.printf("\n");
+@
+
+
+1.136
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.135 2014-02-04 17:57:42-08 - - $
+d133 6
+a138 5
+      if(lineLength >= commands.lineL){
+         out.printf("\n");
+         commands.lineVert++;
+         indent();
+         lineLength = commands.format + commands.indent;
+@
+
+
+1.135
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.134 2014-02-04 17:56:46-08 - - $
+d132 6
+a137 2
+           
+	}
+@
+
+
+1.134
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.133 2014-02-04 15:49:26-08 - - $
+d137 1
+a137 1
+        // out.printf("\n");
+@
+
+
+1.133
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.132 2014-02-04 15:48:53-08 - - $
+d56 1
+a56 6
+     out.printf("\f");
+     for (int i = 0; i < commands.lineL/2; i++){
+        out.printf(" ");
+     }
+     out.printf("%s", filename);
+     for (int i = 0; i <(commands.lineL/2) - 1; i++){
+d68 6
+d136 2
+a137 2
+      for(int i = 0; i < commands.lineNum; i++){
+         out.printf("\n");
+d139 1
+a139 1
+      }
+@
+
+
+1.132
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.131 2014-02-04 15:47:28-08 - - $
+d17 1
+a17 1
+      newPage();
+@
+
+
+1.131
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.130 2014-02-04 15:46:54-08 - - $
+d31 1
+a31 1
+               commands.do_command (words, filename);
+d43 1
+a43 1
+      printparagraph(wordqueue);
+@
+
+
+1.130
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.129 2014-02-04 15:35:07-08 - - $
+d55 1
+a55 1
+   public static void newPage(string filename) {
+d73 1
+a73 1
+   public static void printparagraph(linkedqueue wordqueue, string filename){
+@
+
+
+1.129
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.128 2014-02-04 15:32:46-08 - - $
+d31 1
+a31 1
+               commands.do_command (words);
+d36 1
+a36 1
+            printparagraph(wordqueue);
+d55 7
+a61 2
+   public static void newPage() {
+     for (int i = 0; i < commands.lineL - 1; i++){
+d73 1
+a73 1
+   public static void printparagraph(linkedqueue wordqueue){
+d82 1
+a82 1
+            newPage();
+@
+
+
+1.128
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.127 2014-02-04 15:27:45-08 - - $
+d130 1
+a130 1
+      //for(int i = 0; i < commands.lineNum; i++){
+d133 1
+a133 1
+      //}
+@
+
+
+1.127
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.126 2014-02-04 15:26:11-08 - - $
+d130 1
+a130 1
+      for(int i = 0; i < commands.lineNum; i++){
+d132 2
+a133 2
+         commands.lineVert++;
+      }
+@
+
+
+1.126
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.125 2014-02-04 14:58:08-08 - - $
+d130 4
+a133 3
+      out.printf("\n");
+      //out.printf("\n");
+      commands.lineVert++;
+@
+
+
+1.125
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.124 2014-02-04 14:54:12-08 - - $
+d78 1
+@
+
+
+1.124
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.123 2014-02-04 14:52:34-08 - - $
+d29 1
+a29 2
+         if (words.length > 0 && words[0].startsWith (Character.toString(commands.controlChar))) {
+            words[0].substring(1);
+@
+
+
+1.123
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.122 2014-02-04 13:55:38-08 - - $
+d30 1
+a30 1
+            words[0].substring(0);
+@
+
+
+1.122
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.121 2014-02-04 13:53:17-08 - - $
+d30 1
+a38 4
+         }else {
+          
+            //for (String word: words) out.printf ("%s ", word);
+            //out.printf ("%n");
+d40 1
+d64 1
+a64 6
+     for (int i = 0; i < commands.format; i++){
+        out.printf(" ");
+     }
+     for (int i = 0; i < commands.indent; i++){
+        out.printf(" ");
+     }
+@
+
+
+1.121
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.120 2014-02-04 13:52:55-08 - - $
+d66 6
+@
+
+
+1.120
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.119 2014-02-04 13:48:09-08 - - $
+d22 1
+a22 1
+         if (line.startsWith(".\\\"") line = infile.nextLine();
+@
+
+
+1.119
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.118 2014-02-04 13:47:13-08 - - $
+a18 3
+         //newPage();
+         int pageTotal = 0;//number of pages printed
+         int vertTotal = 0;//number of lines in current page
+d21 2
+d87 1
+a87 1
+            }
+@
+
+
+1.118
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.117 2014-02-04 13:44:19-08 - - $
+d133 2
+a134 2
+      out.printf("\n");
+      commands.lineVert += 2;
+@
+
+
+1.117
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.116 2014-02-04 13:43:51-08 - - $
+d17 1
+@
+
+
+1.116
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.115 2014-02-04 13:43:27-08 - - $
+d78 3
+a80 3
+         //if (commands.lineVert >= commands.pageL || commands.isTopOfPage){
+           // newPage();
+         //}
+@
+
+
+1.115
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.114 2014-02-04 13:41:40-08 - - $
+d18 1
+a18 1
+         newPage();
+@
+
+
+1.114
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.113 2014-02-04 13:40:37-08 - - $
+d78 3
+a80 3
+         if (commands.lineVert >= commands.pageL || commands.isTopOfPage){
+            newPage();
+         }
+@
+
+
+1.113
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.112 2014-02-04 13:15:02-08 - - $
+d78 1
+a78 1
+         if (commands.lineVert >= commands.pageL || commands.isTopofPage){
+@
+
+
+1.112
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.111 2014-02-04 13:06:46-08 - - $
+d18 1
+d27 1
+a27 1
+         newPage();
+d78 1
+a78 1
+         if (commands.lineVert >= commands.pageL){
+@
+
+
+1.111
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.110 2014-02-04 12:00:13-08 - - $
+d26 1
+d35 1
+a35 1
+            vertTotal = printparagraph(wordqueue, vertTotal, pageTotal);
+d45 1
+a45 1
+      vertTotal = printparagraph(wordqueue, vertTotal, pageTotal);
+d61 1
+a61 1
+     out.printf("%s", scanfile.pageTotal);
+d65 2
+a66 1
+     scanfile.pageTotal++;
+d77 1
+a77 1
+         if (scanfile.vertTotal >= commands.pageL){
+d103 1
+a103 1
+             scanfile.vertTotal++;
+d120 1
+a120 1
+               scanfile.vertTotal++;
+d132 1
+a132 2
+      vertTotal += 2;
+      return vertTotal;
+@
+
+
+1.110
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.109 2014-02-04 11:59:52-08 - - $
+d18 2
+d34 1
+a34 1
+            printparagraph(wordqueue);
+d44 1
+a44 1
+      printparagraph(wordqueue);
+d56 11
+d75 3
+a77 1
+
+d80 1
+a80 1
+         if (word.startsWith(Character.toString(commands.controlChar))){
+d101 1
+d118 1
+d130 2
+@
+
+
+1.109
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.108 2014-02-04 11:58:24-08 - - $
+d67 1
+a67 1
+            if (!wordqueue.empty(){
+@
+
+
+1.108
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.107 2014-02-04 11:57:13-08 - - $
+d67 3
+a69 1
+            word = (String)wordqueue.remove();
+@
+
+
+1.107
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.106 2014-02-04 11:50:33-08 - - $
+d66 2
+a67 1
+            //don't print the command
+@
+
+
+1.106
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.105 2014-02-04 11:48:29-08 - - $
+d65 3
+a67 1
+	 if (word.endsWith(".") || word.endsWith("!")
+@
+
+
+1.105
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.104 2014-02-04 11:41:42-08 - - $
+d59 1
+@
+
+
+1.104
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.103 2014-02-04 11:30:44-08 - - $
+d45 9
+a71 10
+           for (int i = 0; i < commands.format; i++){
+              out.printf(" ");
+              lineLength++;
+           }
+
+           for (int i = 0; i < commands.indent; i++){
+              out.printf(" ");
+              lineLength++;
+           }
+
+d80 1
+d82 1
+d89 2
+a90 13
+         }else {
+
+            for (int i = 0; i < commands.format; i++){
+               out.printf(" ");
+               lineLength++;
+            }
+            
+            for (int i = 0; i < commands.indent; i++){
+               out.printf(" ");
+               lineLength++;
+            }
+
+	    lineLength += word.length() + 1;
+d96 1
+d98 1
+@
+
+
+1.103
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.102 2014-02-04 11:05:27-08 - - $
+d63 10
+d90 10
+@
+
+
+1.102
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.101 2014-02-03 15:17:18-08 - - $
+d51 2
+d58 2
+d69 2
+a70 2
+           if (lineLength >= 20){
+             out.printf("%n");
+d84 2
+a85 2
+            if (lineLength >= 20){
+               out.printf("%n");
+d93 2
+a94 2
+      out.printf("%n");
+      out.printf("%n");
+@
+
+
+1.101
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.100 2014-02-03 15:04:12-08 - - $
+d25 1
+a25 1
+         if (words.length > 0 && words[0].startsWith (".")) {
+@
+
+
+1.100
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.99 2014-02-03 15:03:29-08 - - $
+d66 1
+a66 1
+             out.printf("%n[%s]", lineLength);
+d81 1
+a81 1
+               out.printf("%n[%s]", lineLength);
+@
+
+
+1.99
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.98 2014-02-03 15:00:44-08 - - $
+d89 2
+a90 1
+      out.printf("%n %n %n");
+@
+
+
+1.98
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.97 2014-02-03 14:50:13-08 - - $
+d24 1
+a24 1
+
+d40 2
+d60 1
+a60 2
+           //exceeds the length of the page
+           //if yes,
+d89 1
+a89 1
+      out.printf("%n %n");
+@
+
+
+1.97
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.96 2014-02-03 14:49:19-08 - - $
+d32 2
+a33 2
+            //for(String word: words) out.printf ("%s ", word);
+            //printparagraph(wordqueue);
+d35 1
+a35 1
+            //printparagraph(wordqueue);
+d44 1
+d46 2
+d50 1
+d54 1
+d56 8
+a63 1
+           //out.printf("%s  ", word);
+a66 1
+//word.length();
+d68 1
+d70 3
+a72 4
+          // if (lineLength >= 10){
+          //   out.printf("%n[%s]", lineLength);
+          //   lineLength = 0;
+          // }
+d74 1
+d76 3
+d84 1
+a84 4
+           // if (lineLength >= 10){
+           //   out.printf("%n[%s]", lineLength);
+           //   lineLength = 0;
+           // }
+a85 6
+         //if (lineLength >= 10){ 
+         //   out.printf("%n");
+         //   lineLength += word.length() + 1;
+         //}
+         //out.printf("%s ", word);
+         
+d87 2
+a88 1
+      out.printf("%n");
+@
+
+
+1.96
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.95 2014-02-03 14:46:59-08 - - $
+d52 1
+a52 1
+           if (lineLength >= 10){
+d64 1
+a64 1
+            if (lineLength >= 10){
+@
+
+
+1.95
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.94 2014-02-03 14:41:09-08 - - $
+d74 4
+a77 4
+         if (lineLength >= 10){ 
+            out.printf("%n");
+            lineLength += word.length() + 1;
+         }
+@
+
+
+1.94
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.93 2014-02-03 14:39:00-08 - - $
+d51 1
+a51 1
+           out.printf("%s  ", word);
+d54 1
+a54 1
+             lineLength = 0;
+d58 4
+a61 4
+           //if (lineLength >= 10){
+           //  out.printf("%n[%s]", lineLength);
+           //  lineLength = 0;
+           //}
+d66 1
+a66 2
+       	       lineLength = 0;
+//word.length();
+d69 4
+a72 4
+          //  if (lineLength >= 10){
+          //    out.printf("%n[%s]", lineLength);
+          //    lineLength = 0;
+          //  }
+@
+
+
+1.93
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.92 2014-02-03 14:38:14-08 - - $
+a50 6
+           //out.printf("%s  ", word);
+         //  if (lineLength >= 10){
+         //    out.printf("%n[%s]", lineLength);
+         //    lineLength = 0;
+//word.length();
+           //}
+d55 1
+d57 5
+d64 3
+a66 3
+            //if (lineLength >= 10){
+            //   out.printf("%n[%s]", lineLength);
+       	    //   lineLength = 0;
+d68 1
+a68 1
+          //  }  
+d70 4
+a73 4
+            if (lineLength >= 10){
+              out.printf("%n[%s]", lineLength);
+              lineLength = 0;
+            }
+@
+
+
+1.92
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.91 2014-02-03 14:37:02-08 - - $
+d56 1
+a56 1
+           }
+d68 1
+a68 1
+            }  
+@
+
+
+1.91
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.90 2014-02-03 14:36:41-08 - - $
+d52 3
+a54 3
+           if (lineLength >= 10){
+             out.printf("%n[%s]", lineLength);
+             lineLength = 0;
+d64 3
+a66 3
+            if (lineLength >= 10){
+               out.printf("%n[%s]", lineLength);
+       	       lineLength = 0;
+@
+
+
+1.90
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.89 2014-02-03 14:35:14-08 - - $
+d75 1
+a75 1
+         if (lineLength >= 10 && !hasNewLine ){ 
+@
+
+
+1.89
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.88 2014-02-03 14:32:56-08 - - $
+d75 4
+a78 4
+       //  if (lineLength >= 10 && !hasNewLine ){ 
+       //     out.printf("%n");
+       //     lineLength += word.length() + 1;
+       //  }
+@
+
+
+1.88
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.87 2014-02-03 14:31:08-08 - - $
+d54 2
+a55 1
+             lineLength = word.length();
+d66 2
+a67 1
+       	       lineLength = word.length();
+@
+
+
+1.87
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.86 2014-02-03 14:22:17-08 - - $
+d53 1
+a53 1
+             out.printf("%n");
+d58 1
+a58 1
+             out.printf("%n");
+d64 1
+a64 1
+               out.printf("%n");
+d69 1
+a69 1
+              out.printf("%n");
+@
+
+
+1.86
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.85 2014-02-03 14:20:24-08 - - $
+a45 1
+         //boolean hasNewLine = false;
+a46 1
+         //lineLength += word.length() + 1;
+d54 5
+a60 1
+           out.printf("%s  ", word);
+d65 1
+a65 2
+           //    hasNewLine = true;
+       	       lineLength = 0;
+d68 4
+@
+
+
+1.85
+log
+@-
+@
+text
+@d1 5
+a5 2
+// $Id: jroff.java,v 1.84 2014-02-03 14:17:05-08 - - $
+
+d56 1
+a56 1
+             lineLength = word.length();
+d64 1
+a64 1
+       	       lineLength = word.length();
+@
+
+
+1.84
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.83 2014-02-03 14:16:03-08 - - $
+d43 1
+a43 1
+         boolean hasNewLine = false;
+d50 1
+a50 1
+           out.printf("%s  ", word);
+d55 1
+d60 1
+a60 1
+               hasNewLine = true;
+@
+
+
+1.83
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.82 2014-02-03 14:14:50-08 - - $
+d45 1
+a45 1
+         lineLength += word.length() + 1;
+@
+
+
+1.82
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.81 2014-02-03 14:13:04-08 - - $
+d53 1
+a53 1
+             lineLength = word.length() + 2;
+d60 1
+a60 1
+       	       lineLength = word.length() + 1;
+d64 4
+a67 4
+         if (lineLength >= 10 && !hasNewLine ){ 
+            out.printf("%n");
+            lineLength += word.length() + 1;
+         }
+@
+
+
+1.81
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.80 2014-02-03 14:12:42-08 - - $
+d45 1
+a45 1
+         //lineLength += word.length() + 1;
+d59 1
+a59 1
+            //   hasNewLine = true;
+d64 1
+a64 1
+         if (lineLength >= 10){ 
+@
+
+
+1.80
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.79 2014-02-03 14:10:26-08 - - $
+d51 1
+a51 1
+           if (lineLength += 10){
+@
+
+
+1.79
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.78 2014-02-03 14:08:40-08 - - $
+d51 4
+d59 1
+a59 1
+               hasNewLine = true;
+d64 1
+a64 1
+         if (lineLength >= 10 && !hasNewLine){ 
+@
+
+
+1.78
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.77 2014-02-03 14:07:13-08 - - $
+d67 1
+a67 1
+      out.printf("%n%n");
+@
+
+
+1.77
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.76 2014-02-03 14:05:40-08 - - $
+d62 1
+a62 1
+            lineLength = 0;
+@
+
+
+1.76
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.75 2014-02-03 14:03:40-08 - - $
+d47 2
+a48 1
+	     || word.endsWith("?")){
+d53 1
+a53 1
+            if (lineLength >= 65){
+d60 1
+a60 1
+         if (lineLength >= 65 && !hasNewLine){ 
+@
+
+
+1.75
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.74 2014-02-03 14:02:16-08 - - $
+d52 7
+a58 8
+         }
+         if (lineLength >= 65){
+            out.printf("%n");
+            hasNewLine = true;
+	    lineLength = word.length() + 1;
+         }
+         out.printf("%s ", word);
+	
+@
+
+
+1.74
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.73 2014-02-03 14:00:23-08 - - $
+d46 2
+a47 2
+	 if (word.EndsWith(".") || word.EndsWith("!")
+	     || word.EndsWith("?")){
+@
+
+
+1.73
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.72 2014-02-02 19:10:11-08 - - $
+d48 1
+a48 1
+  	   lineLength += word.length + 2;
+@
+
+
+1.72
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.71 2014-02-02 19:07:20-08 - - $
+d42 1
+a42 1
+      for(;!wordqueue.empty();){
+d45 9
+a53 2
+         lineLength += word.length() + 1;
+         if(lineLength >= 10){
+d60 1
+a60 1
+         if(lineLength >= 10 && !hasNewLine){ 
+d67 1
+a67 1
+      out.printf("%n");
+@
+
+
+1.71
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.70 2014-02-02 18:32:02-08 - - $
+d49 1
+a49 1
+	    lineLength = 0;
+@
+
+
+1.70
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.69 2014-02-02 18:30:06-08 - - $
+d46 1
+a46 1
+         if(lineLength > 10){
+d49 1
+d52 2
+a53 1
+         if(lineLength > 10 && !hasNewLine){ 
+@
+
+
+1.69
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.68 2014-02-02 18:28:40-08 - - $
+d43 1
+a43 1
+         
+d48 1
+d51 1
+a51 1
+         if(lineLength > 10){ 
+@
+
+
+1.68
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.67 2014-02-02 18:25:01-08 - - $
+a47 1
+            lineLength = 0;
+d57 1
+a57 1
+      //out.printf("%n");
+@
+
+
+1.67
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.66 2014-02-02 18:24:16-08 - - $
+d48 1
+@
+
+
+1.66
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.65 2014-02-02 18:22:29-08 - - $
+d51 1
+a51 1
+            out.printf("%n %s ", lineLength);
+@
+
+
+1.65
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.64 2014-02-02 18:19:29-08 - - $
+d46 3
+@
+
+
+1.64
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.63 2014-02-02 18:17:29-08 - - $
+d46 1
+d51 1
+a51 1
+         out.printf("%s ", word);
+@
+
+
+1.63
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.62 2014-02-02 18:15:43-08 - - $
+a48 2
+         }else{
+            out.printf("%s ", word);
+d50 2
+@
+
+
+1.62
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.61 2014-02-02 18:13:20-08 - - $
+d47 1
+a47 1
+            out.printf("%n%s [%s] ", word, lineLength);
+@
+
+
+1.61
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.60 2014-02-02 18:12:09-08 - - $
+d47 1
+a47 1
+            out.printf("Newline: %n%s ", word);
+@
+
+
+1.60
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.59 2014-02-02 18:07:22-08 - - $
+d47 1
+a47 1
+            out.printf("%n%s", word);
+@
+
+
+1.59
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.58 2014-02-02 18:06:51-08 - - $
+d47 1
+a47 1
+            out.printf("%n");
+d49 2
+a51 2
+         out.printf("%s ", word);
+         
+@
+
+
+1.58
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.57 2014-02-02 18:06:37-08 - - $
+d13 1
+a13 1
+      int linenr;
+@
+
+
+1.57
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.56 2014-02-02 18:05:53-08 - - $
+d19 1
+a19 1
+         linenr++
+@
+
+
+1.56
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.55 2014-02-02 18:03:38-08 - - $
+d13 1
+a13 1
+      
+d19 1
+a19 1
+         
+@
+
+
+1.55
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.54 2014-02-02 18:02:21-08 - - $
+d13 1
+a13 1
+      int linenr = 0;
+d19 1
+a19 1
+         linenr++;
+d32 1
+a32 1
+            printparagraph(wordqueue);
+d37 1
+a37 1
+      //printparagraph(wordqueue);
+@
+
+
+1.54
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.53 2014-02-02 18:00:32-08 - - $
+d29 2
+a30 2
+            for(String word: words) out.printf ("%s ", word);
+            printparagraph(wordqueue);
+@
+
+
+1.53
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.52 2014-02-02 17:56:43-08 - - $
+d46 1
+a46 1
+         if(lineLength >= 10){ 
+d50 1
+a50 1
+         out.printf("%s space ", word);
+@
+
+
+1.52
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.51 2014-02-02 17:51:19-08 - - $
+d45 1
+a45 1
+         lineLength += word.length()+2;
+d50 1
+a50 1
+         out.printf("%s ", word);
+@
+
+
+1.51
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.50 2014-02-02 17:48:38-08 - - $
+d53 1
+a53 1
+      out.printf("%n");
+@
+
+
+1.50
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.49 2014-02-02 17:47:17-08 - - $
+d32 1
+a32 1
+            //printparagraph(wordqueue);
+d37 1
+a37 1
+      printparagraph(wordqueue);
+@
+
+
+1.49
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.48 2014-02-02 17:43:06-08 - - $
+d45 1
+a45 1
+         lineLength += word.length()+1;
+@
+
+
+1.48
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.47 2014-02-02 17:42:29-08 - - $
+d45 1
+a45 1
+         lineLength += word.length();
+@
+
+
+1.47
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.46 2014-02-02 17:40:28-08 - - $
+d46 1
+a46 1
+         if(lineLength >= 65){ 
+@
+
+
+1.46
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.45 2014-02-02 17:36:17-08 - - $
+d41 1
+d43 1
+a43 1
+         int lineLength = 0;
+d46 5
+a50 2
+         if(lineLength >= 65) out.printf("%n");
+         out.printf("%s LineLength: [%s] ", word, lineLength);
+@
+
+
+1.45
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.44 2014-02-02 16:55:38-08 - - $
+d46 1
+a46 1
+         out.printf("%s ", word);
+@
+
+
+1.44
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.43 2014-02-02 16:55:20-08 - - $
+d45 1
+a45 1
+         if(lineLength >= 65) out.printf("\n");
+d49 1
+a49 1
+      out.printf("\n");
+@
+
+
+1.43
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.42 2014-02-02 16:54:58-08 - - $
+d45 1
+a45 1
+         if(lineLength >= 65) out.prinf("\n");
+@
+
+
+1.42
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.41 2014-02-02 16:51:30-08 - - $
+d44 1
+a44 1
+         lineLength += word.length;
+@
+
+
+1.41
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.40 2014-02-02 16:49:58-08 - - $
+d44 2
+a45 1
+         
+@
+
+
+1.40
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.39 2014-02-02 16:48:46-08 - - $
+d43 1
+a43 1
+         String[] word = (String[])wordqueue.remove();
+d45 1
+a45 1
+         out.printf("%s ", word[]);
+@
+
+
+1.39
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.38 2014-02-02 16:44:59-08 - - $
+d45 1
+a45 1
+         out.printf("%s ", word);
+@
+
+
+1.38
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.37 2014-02-02 16:44:38-08 - - $
+d43 3
+a45 3
+         String word;
+         word = wordqueue.remove();
+         out.printf("%s ", wordqueue.remove());
+@
+
+
+1.37
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.36 2014-02-02 16:40:37-08 - - $
+d43 1
+a43 1
+         String word= new String;
+@
+
+
+1.36
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.35 2014-02-02 16:37:24-08 - - $
+d43 3
+a45 2
+         item_t word = wordqueue.remove();
+         out.printf("%s ", word);
+@
+
+
+1.35
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.34 2014-02-02 16:36:50-08 - - $
+d43 3
+a45 2
+         out.printf("%s ", wordqueue.remove());
+         lineLength += (wordqueue.remove()).length();
+@
+
+
+1.34
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.33 2014-02-02 16:34:43-08 - - $
+d44 1
+a44 1
+         lineLength += wordqueue.remove().length();
+@
+
+
+1.33
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.32 2014-02-02 16:29:31-08 - - $
+d42 1
+d44 1
+@
+
+
+1.32
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.31 2014-02-02 16:23:48-08 - - $
+a41 1
+         out.printf("%s", wordqueue.remove().length);
+@
+
+
+1.31
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.30 2014-02-02 16:21:40-08 - - $
+d42 2
+a43 2
+         String word = wordqueue.remove();
+         out.printf("%s ", word);
+@
+
+
+1.30
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.29 2014-02-02 16:07:59-08 - - $
+d42 2
+a43 1
+         out.printf("%s ", wordqueue.remove());
+@
+
+
+1.29
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.28 2014-02-02 16:07:08-08 - - $
+a40 3
+      out.printf("printparagraph was called, ");
+      out.printf(String.valueOf(wordqueue.empty()));
+      out.printf("\n");
+d44 1
+@
+
+
+1.28
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.27 2014-02-02 16:05:52-08 - - $
+d44 1
+a44 1
+      for(;wordqueue.empty();){
+@
+
+
+1.27
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.26 2014-02-02 16:05:26-08 - - $
+d42 1
+a42 1
+      out.printf(wordqueue.empty());
+@
+
+
+1.26
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.25 2014-02-02 16:01:12-08 - - $
+d42 1
+a42 1
+      out.printf(wordqueue.empty);
+@
+
+
+1.25
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.24 2014-02-02 15:56:42-08 - - $
+d32 1
+a32 1
+            printparagraph(wordqueue);
+d37 1
+d41 3
+a43 1
+      out.printf("printparagraph was called");
+@
+
+
+1.24
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.23 2014-02-02 15:55:27-08 - - $
+d16 1
+a16 1
+         out.printf ("STUB: %s: %4d: [%s]%n", filename, linenr, line);
+d40 1
+@
+
+
+1.23
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.22 2014-02-02 15:54:41-08 - - $
+d16 1
+a16 1
+         //out.printf ("STUB: %s: %4d: [%s]%n", filename, linenr, line);
+@
+
+
+1.22
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.21 2014-02-02 15:51:48-08 - - $
+d18 1
+a18 1
+         for(int i = 0;i < words.length; i++) wordqueue.insert(word);
+@
+
+
+1.21
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.20 2014-02-02 15:50:28-08 - - $
+d18 1
+a18 1
+         for(String word: words) wordqueue.insert(word);
+@
+
+
+1.20
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.19 2014-02-02 15:49:06-08 - - $
+d17 2
+a18 2
+         wordqueue.insert(line.split ("\\s+"));
+         //for(String word: words) wordqueue.insert(word);
+@
+
+
+1.19
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.18 2014-02-02 15:48:41-08 - - $
+d17 2
+a18 2
+         String[] words = line.split ("\\s+");
+         for(String word: words) wordqueue.insert(word);
+@
+
+
+1.18
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.17 2014-02-02 15:11:34-08 - - $
+d29 1
+a29 1
+            for(String words: word) out.printf ("%s ", word);
+@
+
+
+1.17
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.16 2014-02-02 15:10:38-08 - - $
+d29 1
+a29 1
+            for(String word: words) out.printf ("%s ", word);
+@
+
+
+1.16
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.15 2014-02-02 15:09:26-08 - - $
+d29 1
+a29 1
+            for(;wordqueue.empty();) out.printf ("%s ", word);
+@
+
+
+1.15
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.14 2014-02-02 15:04:44-08 - - $
+d29 1
+a29 1
+            
+@
+
+
+1.14
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.13 2014-02-02 15:03:53-08 - - $
+d29 1
+d41 1
+a41 1
+         System.out.printf("%s ", wordqueue.remove());
+@
+
+
+1.13
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.12 2014-02-02 15:03:12-08 - - $
+d31 1
+a31 1
+            
+@
+
+
+1.12
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.11 2014-02-02 14:56:40-08 - - $
+d40 1
+a40 1
+         System.out.printf(wordqueue.remove());
+@
+
+
+1.11
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.10 2014-02-02 14:53:51-08 - - $
+d40 1
+a40 1
+         System.out.printf("%s ", wordqueue.remove());
+@
+
+
+1.10
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.9 2014-02-02 14:49:21-08 - - $
+d18 1
+a18 1
+         wordqueue.insert(words);
+d38 1
+a38 1
+   public void printparagraph(linkedqueue wordqueue){
+@
+
+
+1.9
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.8 2014-02-02 14:48:19-08 - - $
+d11 1
+@
+
+
+1.8
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.7 2014-02-02 14:46:20-08 - - $
+d37 2
+a38 2
+   public void printparagraph(linkedqueue wordqueue <String>){
+      for(wordqueue.empty()){
+@
+
+
+1.7
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.6 2014-02-02 14:44:59-08 - - $
+d37 1
+a37 1
+   public void printparagraph(linkedqueue wordqueue){
+@
+
+
+1.6
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.5 2014-02-01 14:17:18-08 - - $
+d39 1
+a39 1
+         System.out.printf("%s ", wordqueue.remove();
+@
+
+
+1.5
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.4 2014-02-01 14:16:05-08 - - $
+d17 1
+d28 1
+d30 3
+a32 2
+            for (String word: words) out.printf ("%s ", word);
+            out.printf ("%n");
+d37 7
+d45 1
+a45 1
+      linkedqueue <String> words = new linkedqueue <String> ();
+@
+
+
+1.4
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.3 2014-02-01 13:53:01-08 - - $
+d28 1
+a28 1
+            for (String word: words) out.printf ("%s", word);
+@
+
+
+1.3
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.2 2014-02-01 13:46:37-08 - - $
+d15 1
+a15 1
+         out.printf ("STUB: %s: %4d: [%s]%n", filename, linenr, line);
+d28 1
+a28 1
+            for (String word: words) out.printf ("[%s]", word);
+@
+
+
+1.2
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.1 2014-01-29 19:24:19-08 - - $
+d12 1
+d17 1
+a17 1
+
+@
+
+
+1.1
+log
+@-
+@
+text
+@d1 1
+a1 1
+// $Id: jroff.java,v 1.3 2014-01-09 17:06:42-08 - - $
+d11 2
+a12 2
+      out.printf ("STUB: filename = %s%n", filename);
+      for (int linenr = 1; infile.hasNextLine(); ++linenr) {
+d16 3
+@
